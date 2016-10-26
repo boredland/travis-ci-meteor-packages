@@ -9,4 +9,4 @@ wget https://raw.github.com/arunoda/travis-ci-meteor-packages/master/phantom_run
 curl https://install.meteor.com | /bin/sh
 
 #installing meteorite
-npm install -g meteorite
+npm install -g meteorite bcrypt
